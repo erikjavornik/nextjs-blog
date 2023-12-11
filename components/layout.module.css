@@ -1,16 +1,20 @@
+/* Styling for a container element with a maximum width of 36rem, padding on the left and right of 1rem each, and margin of 3rem on top, auto on the sides, and 6rem at the bottom. */
 .container {
     max-width: 36rem;
     padding: 0 1rem;
     margin: 3rem auto 6rem;
 }
 
+/* Styling for a header element with flex display, vertical flex direction, and center alignment of its child elements. */
 .header {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
+/* Styling for a class used for a back-to-home link or section with a margin of 3rem on top and 0 on the sides. */
 .backToHome {
     margin: 3rem 0 0;
 }
+
 
